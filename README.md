@@ -26,7 +26,7 @@ A realistic and optimized script that allows players to take part in high-risk v
 
 ## Links :
 
-- [Download on Tebex](https://anmd-gaming.tebex.io/package/aliano_stolen_cars_delivery_script)
+- [Download on Tebex](https://anmd-gaming.tebex.io/package/aliano-stolen-cars-delivery-script)
 - [New Discord Support](https://discord.gg/ueRmsUXb)
 
 ## How to use :
